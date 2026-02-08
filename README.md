@@ -2,6 +2,8 @@
 
 This Student Depression Data Analysis Dashboard aims to explore potential factors contributing to student depression by analyzing behavioral, academic, and lifestyle patterns. It provides a multi-dimensional view of how various stressors and habits correlate with students’ well-being.
 
+<img width="1463" height="821" alt="image" src="https://github.com/user-attachments/assets/1ff22b3d-e6f7-470e-b832-ba306e7b08d9" />
+
 🔍 What the Dashboard Analyzes:
 1. Academic Pressure
 
